@@ -1,0 +1,8 @@
+Partlist exported from C:/Users/SIDDHARTH ATREY/OneDrive/Documents/EAGLE/projects/untitled.sch at 11-03-2023 13:50
+
+Qty Value        Device       Package    Parts              Description                                                                                                     POPULARITY PROD_ID   
+1                BATTERY-9V   BATTCON_9V BT1                Battery - Single Cell                                                                                                      BATT-10855
+1                CONN_04X2    2X4        J1                 Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections                      
+4   74AHC1G08DBV 74AHC1G08DBV SOT23-5    IC1, IC3, IC4, IC5 2-input AND gate                                                                                                0                    
+2   74AHC1G32DBV 74AHC1G32DBV SOT23-5    IC6, IC7           2-input OR gate                                                                                                 0                    
+1   74LS86D      74LS86D      SO14       IC2                Quad 2-input EXCLUSIV-OR (XOR) gate                                                                             0                    
